@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/trinding-router/static/css/main.14ba5a25.css",
+    "main.js": "/trinding-router/static/js/main.ff9a011c.js",
+    "static/css/313.dffbd141.chunk.css": "/trinding-router/static/css/313.dffbd141.chunk.css",
+    "static/js/313.3467071c.chunk.js": "/trinding-router/static/js/313.3467071c.chunk.js",
+    "static/css/625.ba65449b.chunk.css": "/trinding-router/static/css/625.ba65449b.chunk.css",
+    "static/js/625.6e168c87.chunk.js": "/trinding-router/static/js/625.6e168c87.chunk.js",
+    "index.html": "/trinding-router/index.html",
+    "main.14ba5a25.css.map": "/trinding-router/static/css/main.14ba5a25.css.map",
+    "main.ff9a011c.js.map": "/trinding-router/static/js/main.ff9a011c.js.map",
+    "313.dffbd141.chunk.css.map": "/trinding-router/static/css/313.dffbd141.chunk.css.map",
+    "313.3467071c.chunk.js.map": "/trinding-router/static/js/313.3467071c.chunk.js.map",
+    "625.ba65449b.chunk.css.map": "/trinding-router/static/css/625.ba65449b.chunk.css.map",
+    "625.6e168c87.chunk.js.map": "/trinding-router/static/js/625.6e168c87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14ba5a25.css",
+    "static/js/main.ff9a011c.js"
+  ]
+}
