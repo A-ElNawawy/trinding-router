@@ -1,0 +1,51 @@
+.layout {
+  border: 1px solid #232736;
+  border-radius: 5px;
+}
+
+.nav {
+  background-color: #121b21;
+  display: flex;
+  padding: 15px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.links {
+  background-color: transparent;
+}
+
+.links a {
+  color: #c5cbd4;
+  display: inline-block;
+  padding: 10px 15px;
+  border: 1px solid #c5cbd4;
+  border-collapse: collapse;
+}
+
+.links .repos {
+  border-right: none;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+.links .devs {
+  border-left: none;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.filters {
+  display: flex;
+  gap: 15px;
+}
+
+.filters select {
+  color: #c5cbd4;
+  background-color: transparent;
+  border: none;
+}
+
+.main {
+  padding: 15px 0;
+}

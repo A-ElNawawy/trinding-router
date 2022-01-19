@@ -1,0 +1,44 @@
+.dev_item {
+  list-style: none;
+  padding: 20px 15px;
+  display: -ms-grid;
+  display: grid;
+  grid-template-columns: 30px 40% 35% auto;
+}
+
+.dev_item a {
+  color: #196ce9;
+}
+
+.dev_item .user {
+  display: flex;
+  gap: 20px;
+}
+
+.dev_item .user img {
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+
+.dev_item .user a {
+  font-size: 25px;
+}
+
+.dev_item .popular {
+  display: -ms-grid;
+  display: grid;
+  gap: 8px;
+}
+
+.dev_item .popular button {
+  border: none;
+  background-color: transparent;
+  color: #c5cbd4;
+  display: flex;
+  align-items: center;
+}
+
+.dev_item .popular .fire {
+  color: #a55f2e;
+}

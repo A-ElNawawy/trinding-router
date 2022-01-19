@@ -1,0 +1,45 @@
+.repo_item {
+  list-style: none;
+  padding: 20px 15px;
+}
+
+.repo_item .top {
+  display: flex;
+  justify-content: space-between;
+}
+
+.repo_item .top p {
+  width: 85%;
+}
+
+.repo_item .top a {
+  color: #196ce9;
+  font-size: 25px;
+}
+
+.repo_item .bottom {
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 13px;
+}
+
+.repo_item .bottom .statistics {
+  display: flex;
+  align-items: center;
+}
+
+.repo_item .bottom span:not(:last-of-type) {
+  margin-right: 15px;
+}
+
+.repo_item .bottom .statistics img {
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+}
+
+.repo_item .bottom .statistics img:not(:last-of-type) {
+  margin-right: 5px;
+}
